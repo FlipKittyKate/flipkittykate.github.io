@@ -1,11 +1,27 @@
 # flipkittykate.github.io
 
 ### Книги
-- [ZLibrary Books](https://b-ok.cc "ZLibrary Books") - Часть Z-Library project. Крупнейшая библиотека электронных книг.
+- [ZLibrary Books](https://b-ok.cc) - Часть Z-Library project. Крупнейшая библиотека электронных книг.
 
 
 ### VPN
 
-- [VPN Book](https://vpnbook.com "VPN Book") - Бесплатные OpenVPN сервера, живущие за счёт ваших пожертвований.
-- [ПростоVPN.АнтиЗапрет](https://antizapret.prostovpn.org/ "ПростоVPN.АнтиЗапрет") - Российский автоматический VPN и proxy.
-- [OpenVPN](https://openvpn.net/community-downloads/ "OpenVPN") - Open-Source VPN клиент.
+- [VPN Book](https://vpnbook.com) - Бесплатные OpenVPN сервера, живущие за счёт ваших пожертвований.
+- [ПростоVPN.АнтиЗапрет](https://antizapret.prostovpn.org/) - Российский автоматический VPN и proxy.
+- [OpenVPN](https://openvpn.net/community-downloads/) - Open-Source VPN клиент.
+
+### Game Engines
+
+- [Stride3d](https://stride3d.net/) - Полностью бесплатный, кросплатформенный игровой движок с открытым исходным кодом, позволяет разрабатывать как в 3D, так и в 2D
+- [Godot Engine](https://godotengine.org/) - Полностью бесплатный, кросплатформенный игровой движок с открытым исходным кодом, позволяет разрабатывать как в 3D и в настоящем 2D без 3D сцены. имеет свой скриптовый язык и биндинги для кучи других языков.
+- [Unity](https://unity.com/) - Кросплатформенный игровой движок, бесплатен если оборот или объем привлеченных инвестиций не превышает 100 тыс. $ за последние 12 месяцев, позволяет разрабатывать как в 3D, так и в 2D.
+- [Unreal Engine](https://www.unrealengine.com/en-US/) Кросплатформенный игровой движок, позволяет разрабатывать как в 3D, так и в 2D. Бесплатен если оборот или объем привлеченных инвестиций не превышает 1 млн. $. 
+- [Our Machinery](https://ourmachinery.com/) - Полностью модульный игровой движок основанный на плагинах, вы можете добавлять уже существующие плагины или создавать свои. Движок пока что находится в стадии открытого бета тестирования, заявку на вход в которое можно подать на сайте.  
+- [CRYENGINE](https://www.cryengine.com/) - Кросплатформенный игровой движок с открытым исходным кодом, позволяет разрабатывать в 3D.
+- [Lamberyard](https://aws.amazon.com/lumberyard/) - Полностью бесплатный движок, с открытым исходным кодом, для внесения доработок для личного пользования
+## Game Frameworks
+
+- [UrhoSharp](https://github.com/xamarin/urho)
+- [Heaps.io](https://heaps.io/)
+- [FNA](https://fna-xna.github.io/download/)
+- [Mono Game](https://www.monogame.net/)
