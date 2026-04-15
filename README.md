@@ -30,4 +30,4 @@
 - [FNA](https://fna-xna.github.io/download/) - Реализация Microsoft XNA 4 Framework c открытым исходным кодом обновляющаяся по сей день.
 - [Mono Game](https://www.monogame.net/) - Реализация Microsoft XNA 4 Framework с открытым исходным кодом обновляющаяся по сей день.
 
-[./sperma/gallery.html]
+[Sperm](./sperma/gallery.html)
